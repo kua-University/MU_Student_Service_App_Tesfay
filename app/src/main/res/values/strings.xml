@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UniCareApp</string>
+    <string name="select_service_type">Select Service Type</string>
+    <string name="select_priority">Select Priority</string>
+    <string-array name="service_types">
+        <item>Maintenance</item>
+        <item>Dormitory</item>
+        <item>Cafeteria</item>
+        <item>Security</item>
+        <item>Internet</item>
+        <item>E-Student</item>
+        <item>Healthcare</item>
+        <item>Water Supply</item>
+    </string-array>
+    <string-array name="priority_levels">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+</resources>
